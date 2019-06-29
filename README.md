@@ -5,6 +5,11 @@ link to the live site https://sonikavasanth1992.github.io/simple-page/
 <html>
 <head>
   
+  <h2>HTML Buttons</h2>
+<p>HTML buttons are defined with the button hello tag:</p>
+
+<button>Click me</button>
+  
   <title>Portfolio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
