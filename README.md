@@ -5,10 +5,6 @@ link to the live site https://sonikavasanth1992.github.io/simple-page/
 <html>
 <head>
   
-  <h2>HTML Buttons</h2>
-<p>HTML buttons are defined with the button hello tag:</p>
-
-<button>Click me</button>
   
   <title>Portfolio</title>
   <meta charset="utf-8">
@@ -282,5 +278,11 @@ link to the live site https://sonikavasanth1992.github.io/simple-page/
 
 
 </div>
+
+  <h2>HTML Buttons</h2>
+<p>HTML buttons are defined with the button hello tag:</p>
+
+<button>Click me</button>
+
 </body>
 </html>
