@@ -2,12 +2,8 @@
 
 link to the live site https://sonikavasanth1992.github.io/simple-page/
 
-Hello Welcome to my Page
-
 <html>
 <head>
-  <body style = "background: black">
-</body>
   
   <title>Portfolio</title>
   <meta charset="utf-8">
